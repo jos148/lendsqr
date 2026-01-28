@@ -6,7 +6,7 @@ import { fetchUsers } from "@/lib/api";
 import StatsCard from "@/components/StatsCard/StatsCard";
 import UserTable from "@/components/UserTable/UserTable";
 import { User } from "@/types/user";
-import { FiUsers, FiUserCheck, FiDollarSign, FiCreditCard } from "react-icons/fi";
+import { Users, UserCheck, DollarSign, CreditCard } from 'lucide-react';
 
 export default function UsersPage() {
   const [users, setUsers] = useState<User[]>([]);
@@ -51,20 +51,20 @@ export default function UsersPage() {
           gap: "1rem",
         }}
       >
-        <StatsCard title="Users" icon={<FiUsers />} value={users.length} />
+        <StatsCard title="Users" icon={<Users />} value={users.length} />
         <StatsCard
           title="Active Users"
-          icon={<FiUserCheck />}
+          icon={<UserCheck />}
           value={users.filter((u) => u.status === "Active").length}
         />
         <StatsCard
           title="Users with Loans"
-          icon={<FiDollarSign />}
+          icon={<DollarSign />}
           value={12453}
         />
         <StatsCard
           title="Users with Savings"
-          icon={<FiCreditCard />}
+          icon={<CreditCard />}
           value={102453}
         />
       </div>
