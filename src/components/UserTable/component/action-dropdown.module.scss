@@ -1,0 +1,27 @@
+.menu {
+  position: absolute;
+  right: 0;
+  top: 500px;
+  width: 180px;
+  background: white;
+  margin-right: 2.5rem;
+  border-radius: 6px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  z-index: 20;
+
+  button {
+    width: 100%;
+    padding: 12px;
+    background: none;
+    border: none;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 10px;
+    color: #545f7d;
+    cursor: pointer;
+
+    &:hover {
+      background: #f5f7fa;
+    }
+  }
+}

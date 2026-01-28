@@ -1,0 +1,442 @@
+[
+  {
+    "id": "69771818d23f3c821fd31328",
+    "email": "meadows_nash@jasper.tienda",
+    "roles": ["owner", "guest"],
+    "apiKey": "94c02d04-cfb1-4cdb-9bc7-3282237161b7",
+    "phone": "08031234500",
+    "status": "Active",
+    "dob": "1993-08-26",
+    "gender": "Male",
+    "name": "Meadows Nash",
+    "about": "Dolor ipsum anim tempor duis enim ex mollit. Nulla Lorem ad eiusmod velit.",
+    "address": "97 Clifford Place, Wright, Nevada",
+    "organisation": "Jasper",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": 72.219515,
+      "long": 163.952921
+    },
+    "username": "meadows93",
+    "createdAt": "2013-02-19T20:53:58.992Z",
+    "updatedAt": "2013-02-20T20:53:58.992Z",
+    "education": {
+      "level": "Bachelors",
+      "employmentStatus": "Employed",
+      "sector": "Technology",
+      "duration": "2 years",
+      "officeEmail": "meadows@jasper.tienda",
+      "monthlyIncome": "₦200,000 - ₦400,000",
+      "loanRepayment": "₦40,000"
+    },
+    "socials": {
+      "twitter": "@meadows_nash",
+      "facebook": "Meadows Nash",
+      "instagram": "@meadows_nash"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  },
+  {
+    "id": "697718186befa36184c2d0fa",
+    "email": "patterson_harrison@architax.software",
+    "roles": ["admin", "member"],
+    "apiKey": "1d04c326-f969-4ee9-b1a0-404625ce467d",
+    "phone": "08031234567",
+    "status": "Inactive",
+    "dob": "1990-02-01",
+    "gender": "Male",
+    "name": "Patterson Harrison",
+    "about": "Amet eu elit consequat Lorem incididunt officia id non excepteur elit nostrud aute. Et sit nisi eiusmod quis do reprehenderit est qui aliquip magna sit.",
+    "address": "88 Schenck Court, Beyerville, Puerto Rico",
+    "organisation": "Architax",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": -40.480944,
+      "long": -152.191037
+    },
+    "username": "patterson90",
+    "createdAt": "2014-09-13T12:15:39.869Z",
+    "updatedAt": "2014-09-14T12:15:39.869Z",
+    "education": {
+      "level": "Masters",
+      "employmentStatus": "Self-employed",
+      "sector": "Finance",
+      "duration": "5 years",
+      "officeEmail": "patterson@architax.software",
+      "monthlyIncome": "₦500,000 - ₦1,000,000",
+      "loanRepayment": "₦100,000"
+    },
+    "socials": {
+      "twitter": "@patterson_harrison",
+      "facebook": "Patterson Harrison",
+      "instagram": "@patterson_harrison"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  },
+  {
+    "id": "69771818763cf23fc21af211",
+    "email": "mcgee_casey@xelegyl.clinic",
+    "roles": ["guest", "member"],
+    "apiKey": "537d4892-0bea-4726-9983-34b416c34193",
+    "phone": "08031234500",
+    "status": "Pending",
+    "dob": "1993-08-08",
+    "name": "Mcgee Casey",
+    "gender": "Male",
+    "about": "Pariatur occaecat est sunt enim pariatur amet. Fugiat ut minim sint sint irure deserunt.",
+    "address": "29 Everett Avenue, Cavalero, Minnesota",
+    "organisation": "Xelegyl",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": -6.119043,
+      "long": 161.620431
+    },
+    "username": "mcgee93",
+    "createdAt": "2014-01-11T21:04:07.050Z",
+    "updatedAt": "2014-01-12T21:04:07.050Z",
+    "education": {
+      "level": "Bachelors",
+      "employmentStatus": "Employed",
+      "sector": "Health",
+      "duration": "3 years",
+      "officeEmail": "mcgee@xelegyl.clinic",
+      "monthlyIncome": "₦100,000 - ₦200,000",
+      "loanRepayment": "₦20,000"
+    },
+    "socials": {
+      "twitter": "@mcgee_casey",
+      "facebook": "Mcgee Casey",
+      "instagram": "@mcgee_casey"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  },
+  {
+    "id": "697718189899091808b3522e",
+    "email": "pitts_cox@techmania.taipei",
+    "roles": ["admin"],
+    "apiKey": "e6931e5b-4b44-4f0f-9d39-7806e9fe72e4",
+    "phone": "08031234500",
+    "status": "Blacklisted",
+    "dob": "1993-01-29",
+    "gender": "Male",
+    "name": "Pitts Cox",
+    "about": "Incididunt proident nostrud irure elit nostrud ad esse elit nostrud nulla ea elit ullamco. Labore exercitation laborum sit Lorem sint et enim eiusmod consectetur.",
+    "address": "43 Clark Street, Boling, Arkansas",
+    "organisation": "Techmania",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": 30.143865,
+      "long": 37.525459
+    },
+    "username": "pitts93",
+    "createdAt": "2014-03-07T17:31:40.016Z",
+    "updatedAt": "2014-03-08T17:31:40.016Z",
+    "education": {
+      "level": "PhD",
+      "employmentStatus": "Unemployed",
+      "sector": "Education",
+      "duration": "N/A",
+      "officeEmail": "pitts@techmania.taipei",
+      "monthlyIncome": "₦200,000 - ₦400,000",
+      "loanRepayment": "₦40,000"
+    },
+    "socials": {
+      "twitter": "@pitts_cox",
+      "facebook": "Pitts Cox",
+      "instagram": "@pitts_cox"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  },
+  {
+    "id": "697718185661deacbbac199b",
+    "email": "christy_herring@furnitech.ph",
+    "roles": ["member", "guest"],
+    "apiKey": "7e5b9746-1d2b-4132-8c03-7f82171306e2",
+    "phone": "08031234567",
+    "status": "Active",
+    "dob": "1991-01-17",
+    "gender": "Female",
+    "name": "Christy Herring",
+    "about": "Esse reprehenderit laboris minim enim proident do esse. Non tempor occaecat tempor fugiat dolor ipsum mollit excepteur cupidatat.",
+    "address": "61 Louise Terrace, Ahwahnee, Idaho",
+    "organisation": "Furnitech",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": -37.131432,
+      "long": -82.921265
+    },
+    "username": "christy91",
+    "createdAt": "2014-10-22T05:45:50.322Z",
+    "updatedAt": "2014-10-23T05:45:50.322Z",
+    "education": {
+      "level": "Bachelors",
+      "employmentStatus": "Employed",
+      "sector": "Retail",
+      "duration": "4 years",
+      "officeEmail": "christy@furnitech.ph",
+      "monthlyIncome": "₦100,000 - ₦200,000",
+      "loanRepayment": "₦20,000"
+    },
+    "socials": {
+      "twitter": "@christy_herring",
+      "facebook": "Christy Herring",
+      "instagram": "@christy_herring"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  },
+  {
+    "id": "697718182099539d7f168b30",
+    "email": "keisha_osborn@xixan.black",
+    "roles": ["admin", "member"],
+    "apiKey": "2e3fa6eb-fcde-429c-a610-5e62782c0eb3",
+    "phone": "08031234000",
+    "status": "Inactive",
+    "dob": "1990-06-18",
+    "gender": "Female",
+    "name": "Keisha Osborn",
+    "about": "Cupidatat ut sint nisi sit proident culpa ullamco anim ullamco incididunt consectetur cupidatat. Ea adipisicing Lorem cupidatat cupidatat aute.",
+    "address": "97 Prince Street, Dotsero, Pennsylvania",
+    "organisation": "Xixan",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": 83.726584,
+      "long": -39.118292
+    },
+    "username": "keisha90",
+    "createdAt": "2010-08-15T02:12:49.552Z",
+    "updatedAt": "2010-08-16T02:12:49.552Z",
+    "education": {
+      "level": "Bachelors",
+      "employmentStatus": "Employed",
+      "sector": "Health",
+      "duration": "3 years",
+      "officeEmail": "mcgee@xelegyl.clinic",
+      "monthlyIncome": "₦100,000 - ₦200,000",
+      "loanRepayment": "₦20,000"
+    },
+    "socials": {
+      "twitter": "@mcgee_casey",
+      "facebook": "Mcgee Casey",
+      "instagram": "@mcgee_casey"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  },
+  {
+    "id": "69771818f5f04a3378dfabed",
+    "email": "oneill_fowler@digitalus.tires",
+    "roles": ["admin", "guest"],
+    "apiKey": "d903f3a7-14e7-40ae-9ddc-e9bdadfe92c8",
+    "phone": "08031234567",
+    "status": "Pending",
+    "dob": "1989-04-30",
+    "gender": "Male",
+    "name": "Oneill Fowler",
+    "about": "Nostrud excepteur velit ut eu velit occaecat. Dolore est esse in amet nulla officia sit.",
+    "address": "71 Canton Court, Foscoe, Rhode Island",
+    "organisation": "Digitalus",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": -3.654221,
+      "long": -54.151035
+    },
+    "username": "oneill89",
+    "createdAt": "2014-09-28T04:40:14.039Z",
+    "updatedAt": "2014-09-29T04:40:14.039Z",
+    "education": {
+      "level": "Masters",
+      "employmentStatus": "Self-employed",
+      "sector": "Finance",
+      "duration": "5 years",
+      "officeEmail": "oneill@digitalus.tires",
+      "monthlyIncome": "₦200,000 - ₦400,000",
+      "loanRepayment": "₦40,000"
+    },
+    "socials": {
+      "twitter": "@oneill_fowler",
+      "facebook": "Oneill Fowler",
+      "instagram": "@oneill_fowler"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  },
+  {
+    "id": "697718185661deacbbac200b",
+    "email": "christy_herring@furnitech.ph",
+    "roles": ["member", "guest"],
+    "apiKey": "7e5b9746-1d2b-4132-8c03-7f82171306e2",
+    "phone": "08031234567",
+    "status": "Active",
+    "dob": "1991-01-17",
+    "gender": "Female",
+    "name": "Christy Herring",
+    "about": "Esse reprehenderit laboris minim enim proident do esse. Non tempor occaecat tempor fugiat dolor ipsum mollit excepteur cupidatat.",
+    "address": "61 Louise Terrace, Ahwahnee, Idaho",
+    "organisation": "Furnitech",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": -37.131432,
+      "long": -82.921265
+    },
+    "username": "christy91",
+    "createdAt": "2014-10-22T05:45:50.322Z",
+    "updatedAt": "2014-10-23T05:45:50.322Z",
+    "education": {
+      "level": "Bachelors",
+      "employmentStatus": "Employed",
+      "sector": "Retail",
+      "duration": "4 years",
+      "officeEmail": "christy@furnitech.ph",
+      "monthlyIncome": "₦100,000 - ₦200,000",
+      "loanRepayment": "₦20,000"
+    },
+    "socials": {
+      "twitter": "@christy_herring",
+      "facebook": "Christy Herring",
+      "instagram": "@christy_herring"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  },
+  {
+    "id": "697718182099539d7f168b31",
+    "email": "keisha_osborn@xixan.black",
+    "roles": ["admin", "member"],
+    "apiKey": "2e3fa6eb-fcde-429c-a610-5e62782c0eb3",
+    "phone": "08031234000",
+    "status": "Inactive",
+    "dob": "1990-06-18",
+    "gender": "Female",
+    "name": "Keisha Osborn",
+    "about": "Cupidatat ut sint nisi sit proident culpa ullamco anim ullamco incididunt consectetur cupidatat. Ea adipisicing Lorem cupidatat cupidatat aute.",
+    "address": "97 Prince Street, Dotsero, Pennsylvania",
+    "organisation": "Xixan",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": 83.726584,
+      "long": -39.118292
+    },
+    "username": "keisha90",
+    "createdAt": "2010-08-15T02:12:49.552Z",
+    "updatedAt": "2010-08-16T02:12:49.552Z",
+    "education": {
+      "level": "Bachelors",
+      "employmentStatus": "Employed",
+      "sector": "Health",
+      "duration": "3 years",
+      "officeEmail": "keisha@xixan.black",
+      "monthlyIncome": "₦100,000 - ₦200,000",
+      "loanRepayment": "₦20,000"
+    },
+    "socials": {
+      "twitter": "@keisha_osborn",
+      "facebook": "Keisha Osborn",
+      "instagram": "@keisha_osborn"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  },
+  {
+    "id": "69771818f5f04a3378dfabef",
+    "email": "oneill_fowler@digitalus.tires",
+    "roles": ["admin", "guest"],
+    "apiKey": "d903f3a7-14e7-40ae-9ddc-e9bdadfe92c8",
+    "phone": "08031234567",
+    "status": "Pending",
+    "dob": "1989-04-30",
+    "gender": "Male",
+    "name": "Oneill Fowler",
+    "about": "Nostrud excepteur velit ut eu velit occaecat. Dolore est esse in amet nulla officia sit.",
+    "address": "71 Canton Court, Foscoe, Rhode Island",
+    "organisation": "Digitalus",
+    "maritalStatus": "Single",
+    "children": "None",
+    "residenceType": "Apartment",
+    "location": {
+      "lat": -3.654221,
+      "long": -54.151035
+    },
+    "username": "oneill89",
+    "createdAt": "2014-09-28T04:40:14.039Z",
+    "updatedAt": "2014-09-29T04:40:14.039Z",
+    "education": {
+      "level": "Masters",
+      "employmentStatus": "Self-employed",
+      "sector": "Finance",
+      "duration": "5 years",
+      "officeEmail": "oneill@digitalus.tires",
+      "monthlyIncome": "₦200,000 - ₦400,000",
+      "loanRepayment": "₦40,000"
+    },
+    "socials": {
+      "twitter": "@oneill_fowler",
+      "facebook": "Oneill Fowler",
+      "instagram": "@oneill_fowler"
+    },
+    "guarantor": {
+      "name": "Debby Ogana",
+      "phone": "07060780922",
+      "email": "debby@gmail.com",
+      "relationship": "Sister"
+    }
+  }
+]

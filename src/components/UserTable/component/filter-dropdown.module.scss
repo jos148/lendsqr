@@ -1,0 +1,63 @@
+.dropdown {
+  width: 270px;
+  padding: 20px;
+  background: #fff;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 16px;
+
+  label {
+    font-size: 12px;
+    color: #545f7d;
+  }
+
+  input,
+  select {
+    height: 40px;
+    padding: 0 12px;
+    border-radius: 8px;
+    border: 1px solid #dcdfe8;
+  }
+}
+
+.actions {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.reset {
+  border: 1px solid #545f7d;
+  background: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+
+.filter {
+  background: #39cdcc;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+.wrapper {
+  position: relative;
+}
+
+.filterPanel {
+  position: absolute;
+  left: 0;
+  top: 390px;
+  width: 270px;
+  background: #fff;
+  padding: 20px;
+  margin-left: 21rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 6px;
+  z-index: 50;
+}

@@ -1,0 +1,59 @@
+.sidebar {
+  width: 320px;
+  min-height: calc(100vh - 70px);
+  background: #ffffff;
+  padding: 1.5rem;
+  border-right: 1px solid #eaeaea;
+
+  nav {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  span {
+    font-size: 0.75rem;
+    color: #888f9b;
+    text-transform: uppercase;
+    margin: 1.5rem 0 0.5rem 0;
+    letter-spacing: 1px;
+    font-weight: 600;
+  }
+  .link {
+    font-size: 0.95rem;
+    color: #213f7d;
+    font-weight: 600;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    display: inline-flex;
+  }
+  .icon {
+    margin-right: 0.5rem;
+    width: 20px;
+    height: 20px;
+  }
+
+  a {
+    color: #545f7d;
+    text-decoration: none;
+    font-weight: 500;
+
+    &:hover {
+      color: #213f7d;
+    }
+  }
+  .divider {
+    padding-top: 1rem;
+    border: none;
+    border-top: 1px solid #eaeaea;
+  }
+
+  .logout {
+    .link {
+      margin: 8rem 0 0 0;
+    }
+  }
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
